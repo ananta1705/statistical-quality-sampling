@@ -54,8 +54,7 @@ public class gui extends javax.swing.JFrame {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 txtJumCacatActionPerformed(evt);
             }
-        });
-
+        });//a[appadoadaojdsajdahd
         txtUkuranSampel.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 txtUkuranSampelActionPerformed(evt);
